@@ -1,0 +1,242 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	width: 1140px;
+	margin: 0px auto;	
+}
+header{
+	width: 100%;
+	float: left;
+	background-color: skyblue;
+	padding: 25px 0px;
+}
+	
+.logo img{
+	width: 150px;
+	float: left;
+}
+.menu{
+	width: 80%;
+	float: left;
+
+
+}
+.menu nav ul{
+	list-style: none;
+
+}
+.menu nav ul li{
+	display: inline-block;
+    margin: 40px;
+   
+}
+.menu nav ul li a{
+    color: black;
+    text-decoration: none;
+    font-size: 10px;
+}
+.icon{
+
+}
+.icon ul{
+list-style: none;
+}
+.icon ul li{
+	display: inline-block;
+}
+.icon ul li a{
+
+
+}
+.copy{
+	display: inline-block;
+	text-decoration: none;
+
+}
+.image{
+	width: 100%;
+	float: left;
+}
+.image img{
+	width: 100%;
+	float: left;
+	height: 400px;
+}
+.logos{
+	width: 100%;
+	float: left;
+}
+.one{
+	width: 25%;
+	float: left;
+	text-align: center;
+}
+.two{
+	width: 25%;
+	float: left;
+	text-align: center;
+}
+.three{
+	width: 25%;
+	float: left;
+	text-align: center;
+}
+.four{
+	width: 25%;
+	float: left;
+	text-align: center;
+}
+.one button{
+	margin: 20px;
+	color: maroon;
+
+}
+.two button{
+	margin: 20px;
+	color: maroon;
+
+}
+.three button{
+	margin: 20px;
+	color: maroon;
+
+}
+.four button{
+	margin: 20px;
+	color: maroon;
+
+}
+.info{
+	width: 100%;
+	float: left;
+	
+}
+.five{
+	width: 40%;
+	float: left;
+	background-color: skyblue;
+	font-size: 20px;
+	margin: 30px;
+	padding: 23px;
+
+}
+.five h1{
+	text-align: center;
+}
+
+.six h1{
+	text-align: center;
+}
+.six{
+	width: 40%;
+	float: left;
+	background-color: maroon;
+	font-size: 20px;
+	margin: 30px;
+	padding: 23px;
+	
+}
+.five button{
+	padding: 10px;
+	margin: 30px;
+	color: blue;
+}
+.six button{
+	padding: 10px;
+	margin: 30px;
+	color: blue;
+
+}
+.five ul li{
+	margin: 20px;
+	padding: 10px;
+}
+.six ul li{
+	margin: 20px;
+	padding: 10px;
+}
+.seven{
+	text-align: center;
+
+}
+.coloum{
+	display: flex;
+justify-content: space-between;
+}
+.eight{
+	width: 40%;
+	float: left;
+	padding: 0 30px;
+
+}
+ .nine{
+	width: 40%;
+	float: left;
+	padding: 0 30px;
+}
+.eight button{
+	padding: 10px;
+	margin: 10px;
+	color: maroon;
+}
+.nine button{
+	margin: 10px;
+	padding: 10px;
+	color: maroon;
+}
+.ten{
+	width: 100%;
+	float: left;
+	background-color: gray;
+	text-align: center;
+	padding: 30px;
+	margin: 10px;
+}
+.ten ul{
+	list-style: none;
+}
+.msg{
+	text-align: right;
+}
+.star{
+	text-align: center;
+	font-size: 20px;
+	list-style: none;
+}
+.eleven{
+	width: 100%;
+	float: left;
+	background-color: gray;
+	text-align: center;
+}
+.eleven h2{
+	padding: 20px;
+	margin: 10px;
+}
+.footer{
+	width:100%;
+	float: left;
+	background-color: lightblue;
+}
+.left{
+	width: 40%;
+	float: left;
+	margin: 20px;
+	padding: 10px;
+
+}
+.right{
+	width: 40%;
+	float: left;
+	margin: 20px;
+	padding: 10px;
+
+}
+.left h2{
+	padding: 10px;
+}
+.right h2{
+	padding: 10px;
+}
